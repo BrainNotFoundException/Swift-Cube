@@ -1,6 +1,6 @@
 # Swift-Cube
 
-[CLICK HERE TO PLAY](https://brainnotfoundexception.github.io/Swift-Cube/)
+[CLICK HERE TO PLAY](https://brainnotfoundexception.github.io/Swift-Cube/index.html)
 
 # Controls
 --> use 'a' and 'd' or arrow keys on the keybard to play                                  
