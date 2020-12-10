@@ -14,5 +14,5 @@
 
 # Updates
 --> Touchscreen support!                 
---> UI is better now!
+--> UI is better now!                 
 --> Lighting issues fixed!
