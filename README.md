@@ -16,3 +16,6 @@
 --> Touchscreen support!                 
 --> UI is better now!                 
 --> Lighting issues fixed!
+
+# CREDITS
+--> This is a modified version of a game on youtube made by brackeys
