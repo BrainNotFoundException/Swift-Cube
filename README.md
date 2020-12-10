@@ -8,9 +8,9 @@
 
 # Screentshots
 
-![LoadingScreen](https://raw.githubusercontent.com/BrainNotFoundException/Swift-Cube/tree/main/TemplateData/DeepinScreenshot_select-area_20201210110837.png)      
+![LoadingScreen](https://raw.githubusercontent.com/BrainNotFoundException/Swift-Cube/TemplateData/DeepinScreenshot_select-area_20201210110837.png)      
 
-![MainMenu](https://raw.githubusercontent.com/BrainNotFoundException/Swift-Cube/tree/main/TemplateData/DeepinScreenshot_select-area_20201210110858.png)
+![MainMenu](https://raw.githubusercontent.com/BrainNotFoundException/Swift-Cube/TemplateData/DeepinScreenshot_select-area_20201210110858.png)
 
 # Updates
 --> Touchscreen support!                 
