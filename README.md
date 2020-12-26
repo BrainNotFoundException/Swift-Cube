@@ -16,7 +16,7 @@
 --> In-game music!! go to settings in the game to access it                 
 --> Touchscreen support!                 
 --> UI is better now!                 
---> Lighting issues fixed!
+--> Lighting issues fixed!                                     
 --> Added textures to the game!!
 
 # CREDITS
