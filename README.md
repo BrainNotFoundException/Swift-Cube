@@ -13,11 +13,7 @@
 ![MainMenu](https://github.com/BrainNotFoundException/Swift-Cube/blob/main/TemplateData/DeepinScreenshot_select-area_20201210110858.png?raw=true)
 
 # Updates
---> In-game music!! go to settings in the game to access it                 
---> Touchscreen support!                 
---> UI is better now!                 
---> Lighting issues fixed!                                     
---> Added textures to the game!!
+--> New Shooting Mode and detailed information on controls in a separate controls page
 
 # CREDITS
 --> This is a modified version of a game on youtube made by brackeys
