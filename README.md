@@ -13,7 +13,8 @@
 ![MusicSettings](https://github.com/BrainNotFoundException/Swift-Cube/blob/main/TemplateData/image_2020-12-26_145940.png?raw=true)      
 
 # Updates
---> New Shooting Mode and detailed information on controls in a separate controls page
+--> New Shooting Mode and detailed information on controls in a separate controls page                   
+--> Accelerometer support which means that you can now tilt the device (as long as its a touch screen device with accelerometer support) to move the player (please read the controls page in the game).
 
 # CREDITS
 --> This is a modified version of a game on youtube made by brackeys
