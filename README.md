@@ -5,7 +5,7 @@
 
 # Updates
 --> New Shooting Mode and detailed information on controls in a separate controls page                   
---> Accelerometer support which means that you can now tilt the device (as long as its a touch screen device with accelerometer support) to move the player (please read the controls page in the game), <FOR THIS I MIGHT GIVE A DOWNLOAD LINK TO THE APP CAUSE THE ACCELEROMETER DOES NOT WORK IN BROWSER FOR SOME REASON>.
+--> Accelerometer support which means that you can now tilt the device (as long as its a touch screen device with accelerometer support) to move the player (please read the controls page in the game), (FOR THIS I MIGHT GIVE A DOWNLOAD LINK TO THE APP CAUSE THE ACCELEROMETER DOES NOT WORK IN BROWSER FOR SOME REASON).
 
 # Controls
 --> use 'a' and 'd' or arrow keys on the keybard to play                                  
