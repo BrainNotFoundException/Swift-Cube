@@ -6,7 +6,7 @@
 # Updates
 --> New Shooting Mode and detailed information on controls in a separate controls page      
 --> Better User Interface                        
---> A gun loading bar to show the load time in shooting mode
+--> A gun loading bar to show the loading time in shooting mode
 
 # Controls
 --> use 'a' and 'd' or arrow keys on the keybard to play                                  
