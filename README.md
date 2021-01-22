@@ -1,7 +1,7 @@
 # Swift-Cube
 
-[CLICK HERE TO PLAY](https://brainnotfoundexception.github.io/Swift-Cube/)
-
+[CLICK HERE TO PLAY THROUGH GITHUB](https://brainnotfoundexception.github.io/Swift-Cube/)                        
+[CLICK HERE TO PLAY ON ITCH.IO](https://cerealchiller.itch.io/swiftcube)
 
 # Updates
 --> New Shooting Mode and detailed information on controls in a separate controls page      
