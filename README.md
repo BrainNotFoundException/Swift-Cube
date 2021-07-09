@@ -1,5 +1,7 @@
 # Swift-Cube
 
+THE FILES IN THIS REPO ARE ONLY THE UNITY COMPILED FILES
+
 [CLICK HERE TO PLAY THROUGH GITHUB](https://brainnotfoundexception.github.io/Swift-Cube/)                        
 [CLICK HERE TO PLAY ON ITCH.IO](https://cerealchiller.itch.io/swiftcube)
 
